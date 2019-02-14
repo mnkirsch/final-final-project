@@ -6,7 +6,7 @@ class BrunchMoney extends React.Component {
         return(
             <div className="container">
                 <div className="post card">
-                    <h1 className='text-center'>Brunch Money</h1>
+                    <h1 className='text-center red-text'>Brunch Money</h1>
                     <img className="center img-responsive thumbnail" src="https://brewerydb-images.s3.amazonaws.com/beer/HnRppe/upload_BEYbtH-large.png" alt="Brunch Money" />
                     <div className="card-content">
                         <h4 className="text-center">Golden Stout</h4>

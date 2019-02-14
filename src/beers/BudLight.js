@@ -6,7 +6,7 @@ class BudLight extends React.Component {
         return(
             <div className="container">
                 <div className="post card">
-                    <h1 className='text-center'>Bud Light</h1>
+                    <h1 className='text-center blue-text'>Bud Light</h1>
                     <img class="img-responsive thumbnail" src="https://brewerydb-images.s3.amazonaws.com/beer/dimtrs/upload_794WgV-large.png" alt="Bud Light" />
                     <div className="card-content">
                         <h4 className="text-center">American Light Lager</h4>

@@ -6,7 +6,7 @@ class VelvetHammer extends React.Component {
         return(
             <div className="container">
                 <div className="post card">
-                    <h1 className='text-center'>Velvet Hammer</h1>
+                    <h1 className='text-center blue-text'>Velvet Hammer</h1>
                     <img class="img-responsive thumbnail" src="https://brewerydb-images.s3.amazonaws.com/brewery/jhFynd/upload_WTlVPt-squareLarge.png" alt="Peticolas Brewing Company" />
                     <div className="card-content">
                         <h4 className="text-center">Imperial Red</h4>

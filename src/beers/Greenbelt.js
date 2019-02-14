@@ -6,7 +6,7 @@ class Greenbelt extends React.Component {
         return(
             <div className="container">
                 <div className="post card">
-                    <h1 className='text-center'>Greenbelt Farmhouse Wheat</h1>
+                    <h1 className='text-center green-text'>Greenbelt Farmhouse Wheat</h1>
                     <img class="img-responsive thumbnail" src="https://brewerydb-images.s3.amazonaws.com/beer/WzIVC6/upload_DZfDj6-large.png" alt="Greenbelt Farmhouse Wheat" />
                     <div className="card-content">
                         <h4 className="text-center">Saison</h4>

@@ -6,7 +6,7 @@ class Temptress extends React.Component {
         return(
             <div className="container">
                 <div className="post card">
-                    <h1 className='text-center'>The Temptress</h1>
+                    <h1 className='text-center red-text'>The Temptress</h1>
                     <img class="img-responsive thumbnail" src="https://brewerydb-images.s3.amazonaws.com/beer/1sOSKe/upload_cvrGmL-large.png" alt="The Temptress" />
                     <div className="card-content">
                         <h4 className="text-center">Sweet Stout</h4>

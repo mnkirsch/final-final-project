@@ -6,7 +6,7 @@ class BlueMoon extends React.Component {
         return(
             <div className="container">
                 <div className="post card">
-                    <h1 className='text-center'>Belgian White</h1>
+                    <h1 className='text-center blue-text'>Belgian White</h1>
                     <img class="img-responsive thumbnail" src="https://brewerydb-images.s3.amazonaws.com/beer/dDXOEp/upload_aKoVy9-large.png" alt="Belgian White" />
                     <div className="card-content">
                         <h4 className="text-center">Witbier</h4>

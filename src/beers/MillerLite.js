@@ -6,7 +6,7 @@ class MillerLite extends React.Component {
         return(
             <div className="container">
                 <div className="post card">
-                    <h1 className='text-center'>Miller Lite</h1>
+                    <h1 className='text-center blue-text'>Miller Lite</h1>
                             <img class="img-responsive thumbnail" src="https://brewerydb-images.s3.amazonaws.com/beer/KJIjyd/upload_7aovil-large.png" alt="Miller Lite" />                    <div className="card-content">
                         <h4 className="text-center">American Light Lager</h4>
                         <p className='text-center'>ABV: 4.2%</p>

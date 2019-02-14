@@ -6,7 +6,7 @@ class SaltyLady extends React.Component {
         return(
             <div className="container">
                 <div className="post card">
-                    <h1 className='text-center'>The Salty Lady</h1>
+                    <h1 className='text-center yellow-text'>The Salty Lady</h1>
                     <img className="img-responsive thumbnail" src="https://brewerydb-images.s3.amazonaws.com/beer/uP5qdw/upload_ry5SXI-large.png" alt="The Salty Lady" />
                     <div className="card-content">
                         <h4 className='text-center'>Leipzig Gose</h4>

@@ -6,7 +6,7 @@ class DallasBlonde extends React.Component {
         return(
             <div className="container">
                 <div className="post card">
-                    <h1 className='text-center'>Dallas Blonde</h1>
+                    <h1 className='text-center pink-text'>Dallas Blonde</h1>
                     <img class="img-responsive thumbnail" src="https://brewerydb-images.s3.amazonaws.com/beer/TXYlAI/upload_3aTha3-large.png" alt="Dallas Blonde" />
                     <div className="card-content">
                         <h4 className="text-center"></h4>
