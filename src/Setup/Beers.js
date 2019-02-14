@@ -15,7 +15,7 @@ const Beers = ({beers, deleteBeer}) => {
     )
     return (
         <div className="beers collection">
-            {beerList}
+            { beerList }
         </div>
     )
 }
