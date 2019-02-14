@@ -5,6 +5,9 @@
     "type": "git",
     "url": "https://github.com/mnkirsch/final-project"
   },
+  "scripts": {
+    "heroku-prebuild": "npm install --dev"
+  },
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --open"
